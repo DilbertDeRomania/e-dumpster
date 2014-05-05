@@ -1,0 +1,28 @@
+- Java script the good parts
+- Async JS
+- A History of Mathematics From Mesopotamia to Modernity
+- Dive into Python
+- People-ware
+- The Singularity A Philosophical Analysis
+- Jquery Ninja (SR)
+- Git succinctly
+- MongoDB The Definitive Guide (SR)
+- JavaScript patterns
+- An introduction to programming in Go
+- The Go Programming Language Phrasebook
+- The Elements of Computing Systems - Building a Modern Computer from First Principles
+- Programming in Go - Mark Summerfield
+- The Boost C++ Libraries by Boris Schäling (online)
+- The REST API design handbook
+- The mythical man month (SR)
+- The design of everyday things
+- Omul pozitronic
+- Small stakes no limit hold' em
+- How to read hands at no-limit hold' em
+- C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals
+- Learn you Haskell for great good
+- Haskell tutorial
+- haskell 98 tutorial: http://www.haskell.org/tutorial/ (SR)
+- all about monads (SR) http://www.haskell.org/haskellwiki/All_About_Monads
+
+SR: speed read
