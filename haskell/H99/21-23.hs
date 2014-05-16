@@ -26,5 +26,5 @@ myRange i j = [i..j]
 myRnd :: [a] -> Int -> IO [a]
 myRnd xs n = do
 	let len = length xs
-	g <- getStdGen
+	g <- newStdGen
 	return (take n [xs !! k | k <- randomRs(0, len - 1) g])
