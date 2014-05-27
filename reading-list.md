@@ -24,5 +24,8 @@
 - Haskell tutorial
 - haskell 98 tutorial: http://www.haskell.org/tutorial/ (SR)
 - all about monads (SR) http://www.haskell.org/haskellwiki/All_About_Monads
+- You Could Have Invented Monads: http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html
+- Monad Transformers Step by Step: http://www.cs.virginia.edu/~wh5a/personal/Transformers.pdf
+- mature optimization handbook
 
 SR: speed read
