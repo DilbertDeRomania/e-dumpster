@@ -27,5 +27,6 @@
 - You Could Have Invented Monads: http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html
 - Monad Transformers Step by Step: http://www.cs.virginia.edu/~wh5a/personal/Transformers.pdf
 - mature optimization handbook
+- yet another Haskell tutorial: http://en.wikibooks.org/wiki/Haskell/YAHT
 
 SR: speed read
