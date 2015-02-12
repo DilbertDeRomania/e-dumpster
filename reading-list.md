@@ -12,7 +12,7 @@
 - The Go Programming Language Phrasebook
 - The Elements of Computing Systems - Building a Modern Computer from First Principles
 - Programming in Go - Mark Summerfield
-- The Boost C++ Libraries by Boris Sch‰ling (online)
+- The Boost C++ Libraries by Boris Sch√§ling (online)
 - The REST API design handbook
 - The mythical man month (SR)
 - The design of everyday things
@@ -28,5 +28,6 @@
 - Monad Transformers Step by Step: http://www.cs.virginia.edu/~wh5a/personal/Transformers.pdf
 - mature optimization handbook
 - yet another Haskell tutorial: http://en.wikibooks.org/wiki/Haskell/YAHT
+- Effective Modern C++, 2014 by Scott Meyers
 
 SR: speed read
