@@ -22,12 +22,15 @@
 - C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals
 - Learn you Haskell for great good
 - Haskell tutorial
-- haskell 98 tutorial: http://www.haskell.org/tutorial/ (SR)
+- Haskell 98 tutorial: http://www.haskell.org/tutorial/ (SR)
 - all about monads (SR) http://www.haskell.org/haskellwiki/All_About_Monads
 - You Could Have Invented Monads: http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html
 - Monad Transformers Step by Step: http://www.cs.virginia.edu/~wh5a/personal/Transformers.pdf
 - mature optimization handbook
 - yet another Haskell tutorial: http://en.wikibooks.org/wiki/Haskell/YAHT
 - Effective Modern C++, 2014 by Scott Meyers
+- Code book - Simon Singh
+- Programming in Haskell - Graham Hutton
+- Coursera: Programming Languages by Dan Grossman https://class.coursera.org/proglang-003
 
 SR: speed read
