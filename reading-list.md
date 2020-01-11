@@ -32,5 +32,6 @@
 - Code book - Simon Singh
 - Programming in Haskell - Graham Hutton
 - Coursera: Programming Languages by Dan Grossman https://class.coursera.org/proglang-003
+- The Inner Game of Tennis by W Timothy Gallwey
 
 SR: speed read
